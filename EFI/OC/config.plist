@@ -585,7 +585,7 @@
 				<string>_cpuid_set_info</string>
 				<key>Comment</key>
 				<string>algrey - Force cpuid_cores_per_package 10.13,10.14</string>
-				<key>BA 06 0000 00</key>
+				<key>BA06000000</key>
 				<integer>1</integer>
 				<key>Enabled</key>
 				<true/>
@@ -615,7 +615,7 @@
 				<string>_cpuid_set_info</string>
 				<key>Comment</key>
 				<string>algrey - Force cpuid_cores_per_package 10.15,11.0</string>
-				<key>BA 06 0000 00</key>
+				<key>BA06000000</key>
 				<integer>1</integer>
 				<key>Enabled</key>
 				<true/>
@@ -645,7 +645,7 @@
 				<string>_cpuid_set_info</string>
 				<key>Comment</key>
 				<string>algrey - Force cpuid_cores_per_package 12.0/13.0</string>
-				<key>BA 06 0000 00</key>
+				<key>BA06000000</key>
 				<integer>1</integer>
 				<key>Enabled</key>
 				<true/>
